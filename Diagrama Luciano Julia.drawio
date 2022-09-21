@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-21T23:10:45.093Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="il0dSqo8RlELQJ_EQ3Jr" version="20.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-21T23:21:10.439Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="8xYWiKEYzLSiadFP9nmg" version="20.3.3" type="github">
   <diagram name="Page-1" id="03018318-947c-dd8e-b7a3-06fadd420f32">
     <mxGraphModel dx="1422" dy="1604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -13,29 +13,26 @@
         <mxCell id="8SOifNOOEwgQtKwgCEEf-18" value="https://www.draw.io" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;rounded=1;fillStyle=solid;strokeColor=#000000;fontFamily=Georgia;fillColor=#1793FF;" vertex="1" parent="8SOifNOOEwgQtKwgCEEf-16">
           <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="8SOifNOOEwgQtKwgCEEf-7" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillStyle=solid;strokeColor=#000000;strokeWidth=2;fontFamily=Georgia;fontSize=26;fontColor=#99CCFF;fillColor=#1A1A85;" vertex="1" parent="1">
+        <mxCell id="8SOifNOOEwgQtKwgCEEf-7" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillStyle=solid;strokeColor=#000000;strokeWidth=2;fontFamily=Georgia;fontSize=26;fontColor=#99CCFF;fillColor=#CCE5FF;" vertex="1" parent="1">
           <mxGeometry x="10" y="10" width="1080" height="830" as="geometry" />
         </mxCell>
-        <mxCell id="8SOifNOOEwgQtKwgCEEf-6" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;shadow=0;fillStyle=solid;strokeColor=#000000;strokeWidth=2;fontFamily=Georgia;fontSize=26;fontColor=#99CCFF;fillColor=#2828C9;" vertex="1" parent="1">
+        <mxCell id="8SOifNOOEwgQtKwgCEEf-6" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;shadow=0;fillStyle=solid;strokeColor=#000000;strokeWidth=2;fontFamily=Georgia;fontSize=26;fontColor=#99CCFF;fillColor=#B4CAE0;" vertex="1" parent="1">
           <mxGeometry x="20" y="155" width="1060" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8SOifNOOEwgQtKwgCEEf-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2828C9;" vertex="1" parent="1">
+        <mxCell id="8SOifNOOEwgQtKwgCEEf-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#8FA1B3;" vertex="1" parent="1">
           <mxGeometry x="20" y="20" width="1060" height="120" as="geometry" />
         </mxCell>
         <mxCell id="677b7b8949515195-3" value="Search" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.searchBox;strokeColor=#999999;mainText=;strokeColor2=#008cff;fontColor=#666666;fontSize=17;align=left;spacingLeft=3;rounded=0;labelBackgroundColor=none;comic=1;" parent="1" vertex="1">
           <mxGeometry x="840" y="95" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="677b7b8949515195-8" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;align=center;comic=1;" parent="1" vertex="1">
+        <mxCell id="677b7b8949515195-8" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fillColor=#B4CAE0;fontFamily=Verdana;fontSize=12;align=center;comic=1;strokeColor=#B4CAE0;" parent="1" vertex="1">
           <mxGeometry x="30" y="230" width="200" height="590" as="geometry" />
         </mxCell>
-        <mxCell id="677b7b8949515195-15" value="&lt;div style=&quot;text-align: justify&quot;&gt;Clasicos Argentino es un sitio web dedicado a rendir tributo a los autos que han marcado un antes y depues en la industria automotriz nacional.&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;El trabajo que realizamos es el de compilar y mostrarte los clasicos que permanecen en funcionamiento y en excelente estado de concervacion. Las imagenes que presentamos son aportados por los dueños de estos vehiculos, que quieren compartir con la comunidad su trabajo y dedicacion.&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fillColor=#1793FF;fontFamily=Verdana;fontSize=12;align=center;verticalAlign=top;spacing=10;comic=1;" parent="1" vertex="1">
+        <mxCell id="677b7b8949515195-15" value="&lt;div style=&quot;text-align: justify&quot;&gt;Clasicos Argentino es un sitio web dedicado a rendir tributo a los autos que han marcado un antes y depues en la industria automotriz nacional.&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;El trabajo que realizamos es el de compilar y mostrarte los clasicos que permanecen en funcionamiento y en excelente estado de concervacion. Las imagenes que presentamos son aportados por los dueños de estos vehiculos, que quieren compartir con la comunidad su trabajo y dedicacion.&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fillColor=#B4CAE0;fontFamily=Verdana;fontSize=12;align=center;verticalAlign=top;spacing=10;comic=1;" parent="1" vertex="1">
           <mxGeometry x="250" y="233" width="580" height="107" as="geometry" />
         </mxCell>
-        <mxCell id="677b7b8949515195-25" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;align=center;comic=1;" parent="1" vertex="1">
+        <mxCell id="677b7b8949515195-25" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fillColor=#B4CAE0;fontFamily=Verdana;fontSize=12;align=center;comic=1;" parent="1" vertex="1">
           <mxGeometry x="840" y="230" width="230" height="400" as="geometry" />
-        </mxCell>
-        <mxCell id="677b7b8949515195-26" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;align=center;comic=1;" parent="1" vertex="1">
-          <mxGeometry x="840" y="640" width="230" height="180" as="geometry" />
         </mxCell>
         <mxCell id="677b7b8949515195-27" value="Section 1" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
           <mxGeometry x="40" y="250" width="170" height="20" as="geometry" />
@@ -103,29 +100,32 @@
         <mxCell id="677b7b8949515195-49" value="Feature 6" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
           <mxGeometry x="860" y="425" width="170" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="8SOifNOOEwgQtKwgCEEf-4" value="&lt;b&gt;&lt;font color=&quot;#99ccff&quot; face=&quot;Georgia&quot; size=&quot;1&quot; style=&quot;&quot;&gt;&lt;i style=&quot;font-size: 26px;&quot;&gt;Clasicos Argentinos&lt;/i&gt;&lt;/font&gt;&lt;/b&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;shadow=0;strokeColor=#000000;strokeWidth=2;fontFamily=Verdana;fillStyle=solid;fillColor=#3333FF;" vertex="1" parent="1">
-          <mxGeometry x="60" y="47.5" width="310" height="60" as="geometry" />
+        <mxCell id="8SOifNOOEwgQtKwgCEEf-19" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;shadow=0;fillStyle=solid;strokeColor=#000000;strokeWidth=2;fontFamily=Georgia;fontSize=26;fontColor=#000000;fillColor=#CCE5FF;" vertex="1" parent="1">
+          <mxGeometry x="50" y="43.13" width="350" height="71.25" as="geometry" />
         </mxCell>
-        <mxCell id="8SOifNOOEwgQtKwgCEEf-9" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;rounded=1;fillStyle=solid;fontFamily=Georgia;fontSize=26;fontColor=#99CCFF;fillColor=#1A1A85;" vertex="1" parent="1">
+        <mxCell id="8SOifNOOEwgQtKwgCEEf-9" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#000000;rounded=1;fillStyle=solid;fontFamily=Georgia;fontSize=26;fontColor=#99CCFF;fillColor=#8FA1B3;" vertex="1" parent="1">
           <mxGeometry x="300" y="170" width="498" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8SOifNOOEwgQtKwgCEEf-10" value="Ford" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fontSize=17;fontColor=#666666;rounded=1;fillStyle=solid;fontFamily=Georgia;" vertex="1" parent="8SOifNOOEwgQtKwgCEEf-9">
+        <mxCell id="8SOifNOOEwgQtKwgCEEf-10" value="&lt;font color=&quot;#333333&quot;&gt;Ford&lt;/font&gt;" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fontSize=17;fontColor=#666666;rounded=1;fillStyle=solid;fontFamily=Georgia;" vertex="1" parent="8SOifNOOEwgQtKwgCEEf-9">
           <mxGeometry width="83" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8SOifNOOEwgQtKwgCEEf-11" value="Chevrolet" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fontSize=17;fontColor=#666666;rounded=1;fillStyle=solid;fontFamily=Georgia;" vertex="1" parent="8SOifNOOEwgQtKwgCEEf-9">
+        <mxCell id="8SOifNOOEwgQtKwgCEEf-11" value="&lt;font color=&quot;#333333&quot;&gt;Chevrolet&lt;/font&gt;" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fontSize=17;fontColor=#666666;rounded=1;fillStyle=solid;fontFamily=Georgia;" vertex="1" parent="8SOifNOOEwgQtKwgCEEf-9">
           <mxGeometry x="83" width="83" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8SOifNOOEwgQtKwgCEEf-12" value="Dodge" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fontSize=17;fontColor=#666666;rounded=1;fillStyle=solid;fontFamily=Georgia;" vertex="1" parent="8SOifNOOEwgQtKwgCEEf-9">
+        <mxCell id="8SOifNOOEwgQtKwgCEEf-12" value="&lt;font color=&quot;#333333&quot;&gt;Dodge&lt;/font&gt;" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fontSize=17;fontColor=#666666;rounded=1;fillStyle=solid;fontFamily=Georgia;" vertex="1" parent="8SOifNOOEwgQtKwgCEEf-9">
           <mxGeometry x="166" width="83" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8SOifNOOEwgQtKwgCEEf-13" value="Torino" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fontSize=17;fontColor=#666666;rounded=1;fillStyle=solid;fontFamily=Georgia;" vertex="1" parent="8SOifNOOEwgQtKwgCEEf-9">
+        <mxCell id="8SOifNOOEwgQtKwgCEEf-13" value="&lt;font color=&quot;#333333&quot;&gt;Torino&lt;/font&gt;" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fontSize=17;fontColor=#666666;rounded=1;fillStyle=solid;fontFamily=Georgia;" vertex="1" parent="8SOifNOOEwgQtKwgCEEf-9">
           <mxGeometry x="249" width="83" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8SOifNOOEwgQtKwgCEEf-14" value="Otros" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fontSize=17;fontColor=#666666;rounded=1;fillStyle=solid;fontFamily=Georgia;" vertex="1" parent="8SOifNOOEwgQtKwgCEEf-9">
+        <mxCell id="8SOifNOOEwgQtKwgCEEf-14" value="&lt;font color=&quot;#333333&quot;&gt;Otros&lt;/font&gt;" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fontSize=17;fontColor=#666666;rounded=1;fillStyle=solid;fontFamily=Georgia;" vertex="1" parent="8SOifNOOEwgQtKwgCEEf-9">
           <mxGeometry x="332" width="83" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8SOifNOOEwgQtKwgCEEf-15" value="Contacto" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fontSize=17;fontColor=#666666;rounded=1;fillStyle=solid;fontFamily=Georgia;" vertex="1" parent="8SOifNOOEwgQtKwgCEEf-9">
+        <mxCell id="8SOifNOOEwgQtKwgCEEf-15" value="&lt;font color=&quot;#333333&quot;&gt;Contacto&lt;/font&gt;" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fontSize=17;fontColor=#666666;rounded=1;fillStyle=solid;fontFamily=Georgia;" vertex="1" parent="8SOifNOOEwgQtKwgCEEf-9">
           <mxGeometry x="415" width="83" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8SOifNOOEwgQtKwgCEEf-4" value="&lt;b&gt;&lt;font face=&quot;Georgia&quot; size=&quot;1&quot; style=&quot;&quot;&gt;&lt;i style=&quot;font-size: 29px;&quot;&gt;Clasicos Argentinos&lt;/i&gt;&lt;/font&gt;&lt;/b&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;shadow=0;strokeColor=#000000;strokeWidth=2;fontFamily=Verdana;fillStyle=solid;fillColor=#B4CAE0;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="50" width="330" height="57.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
